@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="health.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="static0_0000" x="10" y="10" width="90" height="11"/>
+	<SubTexture name="static0_0001" x="10" y="10" width="90" height="11"/>
+	<SubTexture name="static0_0002" x="105" y="10" width="90" height="11"/>
+	<SubTexture name="static0_0003" x="105" y="10" width="90" height="11"/>
+	<SubTexture name="static10_0000" x="10" y="26" width="90" height="9"/>
+	<SubTexture name="static11_0000" x="105" y="26" width="90" height="9"/>
+	<SubTexture name="static12_0000" x="10" y="40" width="90" height="9"/>
+	<SubTexture name="static13_0000" x="105" y="40" width="90" height="9"/>
+	<SubTexture name="static14_0000" x="10" y="54" width="90" height="9"/>
+	<SubTexture name="static15_0000" x="105" y="54" width="90" height="9"/>
+	<SubTexture name="static16_0000" x="10" y="68" width="90" height="9"/>
+	<SubTexture name="static17_0000" x="105" y="68" width="90" height="9"/>
+	<SubTexture name="static18_0000" x="10" y="82" width="90" height="9"/>
+	<SubTexture name="static19_0000" x="105" y="82" width="90" height="9"/>
+	<SubTexture name="static1_0000" x="10" y="96" width="90" height="11"/>
+	<SubTexture name="static1_0001" x="10" y="96" width="90" height="11"/>
+	<SubTexture name="static1_0002" x="105" y="96" width="90" height="11"/>
+	<SubTexture name="static1_0003" x="105" y="96" width="90" height="11"/>
+	<SubTexture name="static20_0000" x="10" y="112" width="90" height="9"/>
+	<SubTexture name="static2_0000" x="105" y="112" width="90" height="11"/>
+	<SubTexture name="static2_0001" x="105" y="112" width="90" height="11"/>
+	<SubTexture name="static2_0002" x="10" y="128" width="90" height="11"/>
+	<SubTexture name="static2_0003" x="10" y="128" width="90" height="11"/>
+	<SubTexture name="static3_0000" x="105" y="128" width="90" height="11"/>
+	<SubTexture name="static3_0001" x="105" y="128" width="90" height="11"/>
+	<SubTexture name="static3_0002" x="10" y="144" width="90" height="11"/>
+	<SubTexture name="static3_0003" x="10" y="144" width="90" height="11"/>
+	<SubTexture name="static4_0000" x="105" y="144" width="90" height="11"/>
+	<SubTexture name="static4_0001" x="105" y="144" width="90" height="11"/>
+	<SubTexture name="static4_0002" x="10" y="160" width="90" height="11"/>
+	<SubTexture name="static4_0003" x="10" y="160" width="90" height="11"/>
+	<SubTexture name="static5_0000" x="105" y="160" width="90" height="9"/>
+	<SubTexture name="static6_0000" x="10" y="176" width="90" height="9"/>
+	<SubTexture name="static7_0000" x="105" y="176" width="90" height="9"/>
+	<SubTexture name="static8_0000" x="10" y="190" width="90" height="9"/>
+	<SubTexture name="static9_0000" x="105" y="190" width="90" height="9"/>
+</TextureAtlas>
