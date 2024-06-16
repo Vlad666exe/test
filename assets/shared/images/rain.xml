@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rain.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rain_0000.png" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="rain_0001.png" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="rain_0002.png" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="rain_0003.png" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="rain_0004.png" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="rain_0005.png" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="rain_0006.png" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="rain_0007.png" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="rain_0008.png" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="rain_0009.png" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="rain_0010.png" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="rain_0011.png" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="rain_0012.png" x="0" y="3240" width="1920" height="1080"/>
+	<SubTexture name="rain_0013.png" x="1920" y="3240" width="1920" height="1080"/>
+	<SubTexture name="rain_0014.png" x="3840" y="3240" width="1920" height="1080"/>
+	<SubTexture name="rain_0015.png" x="5760" y="3240" width="1920" height="1080"/>
+	<SubTexture name="rain_0016.png" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="rain_0017.png" x="1920" y="4320" width="1920" height="1080"/>
+	<SubTexture name="rain_0018.png" x="3840" y="4320" width="1920" height="1080"/>
+	<SubTexture name="rain_0019.png" x="5760" y="4320" width="1920" height="1080"/>
+	<SubTexture name="rain_0020.png" x="0" y="5400" width="1920" height="1080"/>
+	<SubTexture name="rain_0021.png" x="1920" y="5400" width="1920" height="1080"/>
+	<SubTexture name="rain_0022.png" x="3840" y="5400" width="1920" height="1080"/>
+	<SubTexture name="rain_0023.png" x="5760" y="5400" width="1920" height="1080"/>
+</TextureAtlas>
