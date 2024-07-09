@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				37,
-				11
+				277,
+				281
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,44 +13,46 @@
 		},
 		{
 			"offsets": [
-				37,
-				5
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
-			"offsets": [
-				37,
-				69
+				-340,
+				33
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
 			"name": "BF Dead confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-338,
+				34
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF dead loop",
+			"indices": []
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND_DEAD",
+	"image": "characters/BOYFRIEND_Dead1",
 	"position": [
-		0,
-		350
+		120,
+		460
 	],
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
 		176,
-		209
+		189
 	],
 	"camera_position": [
-		0,
-		0
+		120,
+		-100
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2.5,
+	"_editor_isPlayer": true
 }

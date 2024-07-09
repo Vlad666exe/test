@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hubertidle"
+		},
+		{
+			"offsets": [
+				1695,
+				172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hubertleft"
+		},
+		{
+			"offsets": [
+				530,
+				-211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hubertdown"
+		},
+		{
+			"offsets": [
+				534,
+				467
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hubertup"
+		},
+		{
+			"offsets": [
+				722,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hubertright"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/hubert_assets1",
+	"position": [
+		-970,
+		250
+	],
+	"healthicon": "hubert",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		251,
+		243
+	],
+	"camera_position": [
+		-870,
+		-430
+	],
+	"sing_duration": 5,
+	"scale": 2.5,
+	"_editor_isPlayer": false
+}

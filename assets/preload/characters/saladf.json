@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "saladidle"
+		},
+		{
+			"offsets": [
+				25,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "saladleft"
+		},
+		{
+			"offsets": [
+				-20,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "saladdown"
+		},
+		{
+			"offsets": [
+				-46,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "saladup"
+		},
+		{
+			"offsets": [
+				-98,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "saladright"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/salad_assets1",
+	"position": [
+		180,
+		170
+	],
+	"healthicon": "salad",
+	"flip_x": false,
+	"healthbar_colors": [
+		138,
+		156,
+		94
+	],
+	"camera_position": [
+		100,
+		-130
+	],
+	"sing_duration": 5,
+	"scale": 2.5,
+	"_editor_isPlayer": false
+}

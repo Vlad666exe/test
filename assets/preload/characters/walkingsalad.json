@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "saladidle"
+		},
+		{
+			"offsets": [
+				125,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "saladleft"
+		},
+		{
+			"offsets": [
+				240,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "saladdown"
+		},
+		{
+			"offsets": [
+				-36,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "saladup"
+		},
+		{
+			"offsets": [
+				-108,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "saladright"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/hubertsaladwalk1",
+	"position": [
+		370,
+		610
+	],
+	"healthicon": "salad",
+	"flip_x": true,
+	"healthbar_colors": [
+		138,
+		156,
+		94
+	],
+	"camera_position": [
+		960,
+		-675
+	],
+	"sing_duration": 5,
+	"scale": 2.5,
+	"_editor_isPlayer": true
+}

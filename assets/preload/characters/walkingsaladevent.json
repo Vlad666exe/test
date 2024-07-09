@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-143,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "saladevent"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/hubertsaladevent1",
+	"position": [
+		120,
+		500
+	],
+	"healthicon": "salad",
+	"flip_x": true,
+	"healthbar_colors": [
+		138,
+		156,
+		94
+	],
+	"camera_position": [
+		760,
+		-535
+	],
+	"sing_duration": 6.1,
+	"scale": 3.8,
+	"_editor_isPlayer": true
+}
