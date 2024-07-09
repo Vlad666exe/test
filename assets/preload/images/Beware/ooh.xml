@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ooh.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ooh0000" x="0" y="0" width="223" height="59" frameX="-2" frameY="-1" frameWidth="225" frameHeight="64"/>
+	<SubTexture name="ooh0001" x="0" y="0" width="223" height="59" frameX="-2" frameY="-1" frameWidth="225" frameHeight="64"/>
+	<SubTexture name="ooh0002" x="0" y="59" width="221" height="59" frameX="0" frameY="-5" frameWidth="225" frameHeight="64"/>
+	<SubTexture name="ooh0003" x="0" y="59" width="221" height="59" frameX="0" frameY="-5" frameWidth="225" frameHeight="64"/>
+	<SubTexture name="ooh0004" x="0" y="118" width="219" height="59" frameX="-3" frameY="0" frameWidth="225" frameHeight="64"/>
+	<SubTexture name="ooh0005" x="0" y="118" width="219" height="59" frameX="-3" frameY="0" frameWidth="225" frameHeight="64"/>
+</TextureAtlas>

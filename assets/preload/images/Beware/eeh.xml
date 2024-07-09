@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eeh.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eehh0000" x="0" y="0" width="195" height="53" frameX="0" frameY="-2" frameWidth="195" frameHeight="55"/>
+	<SubTexture name="eehh0001" x="0" y="0" width="195" height="53" frameX="0" frameY="-2" frameWidth="195" frameHeight="55"/>
+	<SubTexture name="eehh0002" x="0" y="53" width="191" height="50" frameX="-3" frameY="-4" frameWidth="195" frameHeight="55"/>
+	<SubTexture name="eehh0003" x="0" y="53" width="191" height="50" frameX="-3" frameY="-4" frameWidth="195" frameHeight="55"/>
+	<SubTexture name="eehh0004" x="0" y="103" width="190" height="55" frameX="-1" frameY="0" frameWidth="195" frameHeight="55"/>
+	<SubTexture name="eehh0005" x="0" y="103" width="190" height="55" frameX="-1" frameY="0" frameWidth="195" frameHeight="55"/>
+</TextureAtlas>
